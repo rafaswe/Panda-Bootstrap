@@ -1,0 +1,11 @@
+.panda-btn{
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+}
+.back-clg{
+    background: #fceae8;
+    
+}
